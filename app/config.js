@@ -21,12 +21,13 @@ const defaults = {
 		'KMD',
 		'LTC',
 		'MSHARK',
+		'MYTH',
+		'OOT',
 		'PIZZA',
 		'REVS',
 		'SUPERNET',
 		'VTC',
 		'ZEC',
-		'OOT',
 	],
 };
 
