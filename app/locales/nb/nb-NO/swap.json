@@ -7,13 +7,13 @@
 		"for": "For",
 		"order": "Ordre",
 		"price": "Pris",
-		"stats": "Den utforte prisen var {{percentCheaperThanRequested}}% billigere enn angitt!",
+		"stats": "Den utførte prisen var {{percentCheaperThanRequested}}% billigere enn angitt!",
 		"transactions": "Transaksjoner",
 		"yourOffer": "Ditt bud",
 		"view": "Vis"
 	},
 	"list": {
 		"cancel": "Avbryt",
-		"empty": "No swaps yet"
+		"empty": "Ingen byttehandler ennå"
 	}
 }
