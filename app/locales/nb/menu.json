@@ -1,0 +1,34 @@
+{
+	"debug": {
+		"copySwapsClipboard": "Kopier byttehandler til utklippstavlen",
+		"deleteAppData": "Slett data",
+		"deletePortfolios": "Slett porteføljer",
+		"deleteSettings": "Slett innstillinger",
+		"logContainerState": "Logg \"container state\"",
+		"logStateChanges": "Veksle logging av tilstand endringer",
+		"logSwaps": "Logg byttehandler",
+		"showAppData": "Vis app data",
+		"showPortfolios": "Vis porteføljer",
+		"showSettings": "Vis innstillinger"
+	},
+	"help": {
+		"about": "Om {{appName}}",
+		"reportIssue": "Rapporter et problem…",
+		"sourceCode": "Kildekode",
+		"website": "Nettsted"
+	},
+	"other": {
+		"file": "Fil"
+	},
+	"portfolio": {
+		"dashboard": "Start",
+		"exchange": "Børs",
+		"goToPrevView": "Gå til forrige visning",
+		"goToNextView": "Gå til neste visning",
+		"logOut": "Logg ut",
+		"settings": "Innstillinger",
+		"swap": "Bytte",
+		"title": "Portefølje",
+		"trades": "Handler"
+	}
+}
