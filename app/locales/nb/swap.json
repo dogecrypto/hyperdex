@@ -1,0 +1,19 @@
+{
+	"tempMessageDescription": "Enkle atombytter med minimal brukerinteraksjon",
+	"tempMessageTitle": "Kommer snart…",
+	"title": "Bytte",
+	"details": {
+		"copyDebugData": "Kopiere bytte feilsøkingsdata",
+		"for": "For",
+		"order": "Ordre",
+		"price": "Pris",
+		"stats": "Den utførte prisen var {{percentCheaperThanRequested}}% billigere enn angitt!",
+		"transactions": "Transaksjoner",
+		"yourOffer": "Ditt bud",
+		"view": "Vis"
+	},
+	"list": {
+		"cancel": "Avbryt",
+		"empty": "Ingen byttehandler ennå"
+	}
+}
