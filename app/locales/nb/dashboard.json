@@ -19,8 +19,8 @@
 		"warning": "Kontroller at du bare sender {{symbol}} til denne adressen"
 	},
 	"info": {
-		"assets": "asset",
-		"assets_plural": "assets",
+		"assets": "eiendel",
+		"assets_plural": "eiendeler",
 		"holdings": "{{symbol}} beholdning",
 		"price": "{{symbol}} pris",
 		"value": "{{symbol}} beholdningsverdi"
