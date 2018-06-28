@@ -1,4 +1,7 @@
 {
+	"app": {
+		"preferences": "Preferences…"
+	},
 	"help": {
 		"about": "Om {{appName}}",
 		"reportIssue": "Rapporter et problem…",
