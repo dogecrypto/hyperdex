@@ -1,6 +1,6 @@
 {
 	"app": {
-		"preferences": "Preferences…"
+		"preferences": "Innstillinger…"
 	},
 	"help": {
 		"about": "Om {{appName}}",
