@@ -1,10 +1,10 @@
 {
 	"tempMessageDescription": "Enkle atombytter med minimal brukerinteraksjon",
 	"tempMessageTitle": "Kommer snart…",
-	"timedOut": "Swap timed out",
+	"timedOut": "Byttehandel utløpte",
 	"title": "Bytte",
 	"details": {
-		"alicepayment": "Alice Payment",
+		"alicepayment": "Alice betaling",
 		"alicespend": "Alice Spend",
 		"bobdeposit": "Bob Deposit",
 		"bobpayment": "Bob Payment",
