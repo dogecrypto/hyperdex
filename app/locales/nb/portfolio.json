@@ -2,6 +2,7 @@
 	"create": {
 		"confirm": "Bekreft",
 		"confirmPassword": "Bekreft passord",
+		"confirmPasswordNoMatch": "Confirmed password doesn't match password",
 		"confirmSeedPhrase": "Bekreft din \"seed phrase\"",
 		"exampleSeedPhrase": "Eksempel: {{seedPhrase}}…",
 		"name": "Portefølje navn",
@@ -10,6 +11,7 @@
 		"securityDescription": "<0>Vi anbefaler å lagre det lokalt. <1>Lær mer om sikkerhet beste praksiser</1></0>",
 		"securityTitle": "Viktig: Vennligst sikkerhetskopier ditt \"seed phrase\"!",
 		"seedPhrase": "\"Seed phrase\" for din portefølje",
+		"seedPhraseNoMatch": "The seed phrase you entered is not the same as the generated one",
 		"success": "Lagt til ny portefølje!",
 		"title": "Opprett ny portefølje"
 	},
@@ -21,6 +23,7 @@
 	},
 	"restore": {
 		"confirm": "Bekreft",
+		"confirmPasswordNoMatch": "Confirmed password doesn't match password",
 		"enterSeedPhrase": "Skriv inn din \"seed phrase\"",
 		"exampleSeedPhrase": "Eksempel: {{seedPhrase}}…"
 	}
